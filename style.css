@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    display: none; /* İlk başta gizli olacak */
+    margin-top: 20%;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 30px 100px 30px 100px;
+    padding-bottom: 35px;
+    padding-top: 35px;
+}
+
+h1 {
+    color: green;
+    font-size: 48px;
+}
+
+h2{
+    color: black;
+    font-size: 24px;
+}
+
+#myClock {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    margin-top: 10px;
+}
